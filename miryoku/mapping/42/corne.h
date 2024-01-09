@@ -11,8 +11,8 @@
      K20, K21, K22, K23, K24,      K25, K26, K27, K28, K29, \
      N30, N31, K32, K33, K34,      K35, K36, K37, N38, N39 \
 ) \
-XXX  K00  K01  K13  K11  K04       K08  K07  K18  K19  K03  XXX \
-XXX  K10  K24  K23  K02  K14       K26  K05  K25  K06  K12  XXX \
+XXX  K00  K01  K17  K11  K13       K08  K07  K18  K19  K03  XXX \
+XXX  K10  K12  K23  K02  K14       K26  K05  K25  K06  K30  XXX \
 XXX  K04  K20  K21  K22  K24       K16  K15  K27  K28  K29  XXX \
                K32  K33  K34       K35  K36  K37
 
