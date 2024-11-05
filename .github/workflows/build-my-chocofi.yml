@@ -11,4 +11,4 @@ jobs:
       board: '["nice_nano_v2"]'
       # shield: '["corne_left","corne_right"]'
       shield: '["corne_left nice_view_adapter nice_view_gem","corne_right nice_view_adapter nice_view_gem"]'
-      modules: M165437/nice-view-gem/main
+      modules: '["M165437/nice-view-gem/main"]'
